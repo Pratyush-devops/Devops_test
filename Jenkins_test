@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "<html><h1>Hello Pratyush Welcome to my Webpage</h1></html>"
+echo "<html><h1>Hello Pratyush Welcome to my Webpage</h1></html>" > outputfile
